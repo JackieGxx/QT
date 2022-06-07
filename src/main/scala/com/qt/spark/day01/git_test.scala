@@ -10,5 +10,7 @@ object git_test {
     println("SK——II")
 
     println("dt,I coming")
+        println("第一个100W")
+
   }
 }
