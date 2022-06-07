@@ -8,5 +8,7 @@ object git_test {
     println("厉害l")
     println("海浪之谜")
     println("SK——II")
+
+    println("dt,I coming")
   }
 }
