@@ -6,5 +6,6 @@ object git_test {
     println("jiayou")
     println("成功")
     println("厉害l")
+    println("海浪之谜")
   }
 }
