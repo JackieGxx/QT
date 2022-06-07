@@ -5,6 +5,6 @@ object git_test {
     println("50W")
     println("jiayou")
     println("成功")
-
+    println("厉害l")
   }
 }
